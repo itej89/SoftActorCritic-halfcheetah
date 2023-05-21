@@ -37,7 +37,10 @@ Please make sure to create the environment using the provided conda environment 
   * The achieved results in the simulation is as shown in the below
 
 
-https://github.com/itej89/SoftActorCritic-halfcheetah/assets/37236721/f4239e7d-371a-43b8-a726-bb46343c3616
+https://github.com/itej89/SoftActorCritic-halfcheetah/assets/37236721/70a9b337-b0f5-4a2b-9d31-4c7a46787ac4
+
+
+
 
 
 
