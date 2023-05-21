@@ -35,9 +35,11 @@ Please make sure to create the environment using the provided conda environment 
   ![Alt text](./doc/Images/RewardPlot.png?raw=true "Reward Plot")
 
   * The achieved results in the simulation is as shown in the below
-<video width="640" height="360" controls>
-  <source src="./doc/Videos/320p.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/itej89/SoftActorCritic-halfcheetah/assets/37236721/f4239e7d-371a-43b8-a726-bb46343c3616
+
+
 
   ## Errors and solutions
 To avoid path errors when training on nvidia GPU, please run the following commands
